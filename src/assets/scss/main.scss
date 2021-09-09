@@ -19,16 +19,9 @@
     // font-weight: normal;
 }
 /*Fonts Declaration*/
-@font-face {
-    font-family:"bell-mt"; /*a name to be used later*/
-    src: url("../../../static/fonts/BELL.ttf") format('truetype'); /*URL to font*/
-    // font-weight: normal;
-}
-
-$bell: bell-mt , sans-serif;
 
 body{
-    font-family: $bell;
+    font-family: 'augusta-free';
     margin: 0 auto;
     box-sizing: border-box;
 }
