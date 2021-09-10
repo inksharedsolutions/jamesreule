@@ -38,7 +38,7 @@ const BookInfo = (props) => {
                                 amazon: props.data.ebooks.amazon,
                             },
                             paperback: {
-                                // amazon: props.data.paperback.amazon,
+                                amazon: props.data.paperback.amazon,
                                 barnes: props.data.paperback.barnes,
                                 booksamillion: props.data.paperback.booksamillion,
                             },

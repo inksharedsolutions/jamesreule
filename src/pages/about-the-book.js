@@ -72,7 +72,7 @@ const ATB = (props) => {
                                     amazon: 'https://www.amazon.com/Go-Tell-World-Their-Danger-ebook/dp/B09F5J1JS6/ref=sr_1_1?dchild=1&keywords=9781648955327&qid=1631244417&sr=8-1',
                                 },
                                 paperback: {
-                                    // amazon: 'https://www.amazon.com/America-Come-Get-James Reule/dp/1648954103/ref=sr_1_1?dchild=1&keywords=9781648954108&qid=1623259912&sr=8-1',
+                                    amazon: 'https://www.amazon.com/Go-Tell-World-Their-Danger/dp/1648955312/ref=monarch_sidesheet',
                                     barnes: 'https://www.barnesandnoble.com/w/go-tell-the-world-of-their-danger-james-reule/1137021737?ean=9781648955310',
                                     booksamillion: 'https://www.booksamillion.com/p/Go-Tell-World-Their-Danger/James-Reule/9781648955310?id=8312449787077&__cf_chl_jschl_tk__=pmd_OiqBSQyMiomCM8H1Fxlp9okyOyB2KFUwajHHQlRHEoE-1631290309-0-gqNtZGzNAmWjcnBszQs9',
                                 }
