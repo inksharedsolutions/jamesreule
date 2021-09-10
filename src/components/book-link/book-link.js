@@ -11,8 +11,8 @@ const BookLink = (props)=>{
 
                     <nav className={`${props.data.isNonfront ? 'booklinkBlocks' : 'frontLinks'}`} >
                         <span>{`${props.data.isNonfront?'Ebook': ''}`}</span>
-                        {/* <li><a rel="noopener noreferrer" target="_blank" href={props.data.ebooks.amazon}>Amazon</a></li>
-                        <li><a rel="noopener noreferrer" target="_blank" href={props.data.ebooks.stratton}>Stratton Press</a></li> */}
+                        <li><a rel="noopener noreferrer" target="_blank" href={props.data.ebooks.amazon}>Amazon</a></li>
+                        {/* <li><a rel="noopener noreferrer" target="_blank" href={props.data.ebooks.stratton}>Stratton Press</a></li> */}
                          <li><a rel="noopener noreferrer" target="_blank" href={props.data.ebooks.barnes}>Barnes & Noble</a></li>
                     </nav>
                 )} 
@@ -23,7 +23,7 @@ const BookLink = (props)=>{
                         <span>{`${props.data.isNonfront?'Paperback': ''}`}</span>
                         {/* <li><a rel="noopener noreferrer" target="_blank" href={props.data.paperback.amazon}>Amazon</a></li> */}
                         <li><a rel="noopener noreferrer" target="_blank" href={props.data.paperback.barnes}>Barnes & Noble </a></li>
-                        {/* <li><a rel="noopener noreferrer" target="_blank" href={props.data.paperback.booksamillion}>Books A Million</a></li> */}
+                        <li><a rel="noopener noreferrer" target="_blank" href={props.data.paperback.booksamillion}>Books A Million</a></li>
                     </nav> 
                 )}      
 

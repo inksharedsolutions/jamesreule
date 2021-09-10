@@ -13,7 +13,7 @@ const ATB = (props) => {
     const slug = (props.location.href);
 
     const disqusConfig = {
-        shortname: 'james-ruele',
+        shortname: 'james-reule',
         config: { identifier: 12, slug }    
     }
 
@@ -45,7 +45,7 @@ const ATB = (props) => {
                                         <p>
                                         This book is a chapter by chapter study of the Biblical books of Daniel and Revelation written
                                         by a layman for laymen. It begins with the “time of trouble” mentioned in Daniel 12:1 and ends
-                                        with the earth being brought back into harmony with the Universe. Specifi c events together
+                                        with the earth being brought back into harmony with the Universe. Specific events together
                                         with specific timing are given and not presented in such a manner that one never knows
                                         whether what is foretold happened or not. “The time of trouble” begins on April 4, 2027 with
                                         a global earthquake accompanied by voices, and thunderings, and lightnings which will set
@@ -69,12 +69,12 @@ const ATB = (props) => {
                                 ebooks: {
                                     // stratton: '',
                                     barnes: 'https://www.barnesandnoble.com/w/go-tell-the-world-of-their-danger-james-reule/1137021737?ean=9781648955327',
-                                    // amazon: 'https://www.amazon.com/America-Come-Get-James Reule-ebook/dp/B096L6K52B/ref=sr_1_1?dchild=1&keywords=9781648954115&qid=1623259921&sr=8-1',
+                                    amazon: 'https://www.amazon.com/Go-Tell-World-Their-Danger-ebook/dp/B09F5J1JS6/ref=sr_1_1?dchild=1&keywords=9781648955327&qid=1631244417&sr=8-1',
                                 },
                                 paperback: {
                                     // amazon: 'https://www.amazon.com/America-Come-Get-James Reule/dp/1648954103/ref=sr_1_1?dchild=1&keywords=9781648954108&qid=1623259912&sr=8-1',
                                     barnes: 'https://www.barnesandnoble.com/w/go-tell-the-world-of-their-danger-james-reule/1137021737?ean=9781648955310',
-                                    // booksamillion: 'https://www.booksamillion.com/p/America-Come-Get/James Reule/9781648954108?id=8255501074287',
+                                    booksamillion: 'https://www.booksamillion.com/p/Go-Tell-World-Their-Danger/James-Reule/9781648955310?id=8312449787077&__cf_chl_jschl_tk__=pmd_OiqBSQyMiomCM8H1Fxlp9okyOyB2KFUwajHHQlRHEoE-1631290309-0-gqNtZGzNAmWjcnBszQs9',
                                 }
                             }}
                         />

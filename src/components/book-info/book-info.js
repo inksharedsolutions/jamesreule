@@ -35,12 +35,12 @@ const BookInfo = (props) => {
                             ebooks: {
                                 // stratton: props.data.ebooks.stratton,
                                 barnes: props.data.ebooks.barnes,
-                                // amazon: props.data.ebooks.amazon,
+                                amazon: props.data.ebooks.amazon,
                             },
                             paperback: {
                                 // amazon: props.data.paperback.amazon,
                                 barnes: props.data.paperback.barnes,
-                                // booksamillion: props.data.paperback.booksamillion,
+                                booksamillion: props.data.paperback.booksamillion,
                             },
 
                             reviews: {},

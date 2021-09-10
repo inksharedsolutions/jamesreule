@@ -6,7 +6,7 @@
     padding: 5% 0;
 
     img {
-        width: 500px;
+        width: 600px;
         position: relative;
         z-index: 2;
     }
@@ -35,7 +35,7 @@
 .upper-main {
 
 
-    padding: 6% 0;
+    padding: 6% 5%;
     text-align: center;
     position: relative;
     z-index: 2;
@@ -92,6 +92,9 @@
         height: 100px;
         list-style-type: none;
 
+        .stratton-logo{
+            width: 100%;
+        }
         img {
             width: 70%;
         }

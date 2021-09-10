@@ -28,7 +28,7 @@ const MidMain = () => {
                         </li>
 
                         <li>
-                            <img src={Logo4} alt="stratton-logo"/>
+                            <img className="stratton-logo" src={Logo4} alt="stratton-logo"/>
                         </li>
 
                     </div>

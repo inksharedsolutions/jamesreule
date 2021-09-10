@@ -12,7 +12,14 @@ const Author = () => {
                     <div className="grid-child" id="author-contents">
 
                         <p>
-                        Many of us who were combat soldiers or marines in the Vietnam War still consider themselves as soldiers.  I served during what has been referred to as the “bloody years” of 1968-69.  Actually 1968 alone owns the title.  I am not a college graduate, but I ground out seven and a half years of college classes day and evening, at four different universities — majoring in nothing, and working full time while attending evening classes, . . . just like an infantry “grunt” did in Vietnam.  I was working almost 24-7 before and after Vietnam service. 
+                        I have neither a Masters in Theology or a Doctorate in Divinity,
+                        but what I do have is a personal experience of having been
+                        taught by the Spirit of God as promised in John 16:13. I have
+                        been studying the books of Daniel and Revelation since 1993. I
+                        did not have an agenda when I began my studies and none of the
+                        views that I had had previously were sustained from the Bible. 
+
+
                         </p>
                         
                         <button className="btn-book-featured-red">
