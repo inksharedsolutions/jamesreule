@@ -1,12 +1,12 @@
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
-		module.exports = factory(require("C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\@reach\\router\\index.js"), require("fs"), require("C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\concat.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\flatten.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\get.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\isObject.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\merge.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\uniqBy.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
+		module.exports = factory(require("C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\@reach\\router\\index.js"), require("fs"), require("C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\concat.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\flatten.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\get.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\isObject.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\merge.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\uniqBy.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
 	else if(typeof define === 'function' && define.amd)
-		define("lib", ["C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\@reach\\router\\index.js", "fs", "C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\concat.js", "C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\flatten.js", "C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\get.js", "C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\isObject.js", "C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\merge.js", "C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\uniqBy.js", "path", "react", "react-dom/server", "react-helmet"], factory);
+		define("lib", ["C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\@reach\\router\\index.js", "fs", "C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\concat.js", "C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\flatten.js", "C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\get.js", "C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\isObject.js", "C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\merge.js", "C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\uniqBy.js", "path", "react", "react-dom/server", "react-helmet"], factory);
 	else if(typeof exports === 'object')
-		exports["lib"] = factory(require("C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\@reach\\router\\index.js"), require("fs"), require("C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\concat.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\flatten.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\get.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\isObject.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\merge.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\uniqBy.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
+		exports["lib"] = factory(require("C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\@reach\\router\\index.js"), require("fs"), require("C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\concat.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\flatten.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\get.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\isObject.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\merge.js"), require("C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\uniqBy.js"), require("path"), require("react"), require("react-dom/server"), require("react-helmet"));
 	else
-		root["lib"] = factory(root["C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\@reach\\router\\index.js"], root["fs"], root["C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\concat.js"], root["C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\flatten.js"], root["C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\get.js"], root["C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\isObject.js"], root["C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\merge.js"], root["C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\uniqBy.js"], root["path"], root["react"], root["react-dom/server"], root["react-helmet"]);
+		root["lib"] = factory(root["C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\@reach\\router\\index.js"], root["fs"], root["C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\concat.js"], root["C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\flatten.js"], root["C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\get.js"], root["C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\isObject.js"], root["C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\merge.js"], root["C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\uniqBy.js"], root["path"], root["react"], root["react-dom/server"], root["react-helmet"]);
 })(this, function(__WEBPACK_EXTERNAL_MODULE__reach_router__, __WEBPACK_EXTERNAL_MODULE_fs__, __WEBPACK_EXTERNAL_MODULE_lodash_concat__, __WEBPACK_EXTERNAL_MODULE_lodash_flatten__, __WEBPACK_EXTERNAL_MODULE_lodash_get__, __WEBPACK_EXTERNAL_MODULE_lodash_isObject__, __WEBPACK_EXTERNAL_MODULE_lodash_merge__, __WEBPACK_EXTERNAL_MODULE_lodash_uniqBy__, __WEBPACK_EXTERNAL_MODULE_path__, __WEBPACK_EXTERNAL_MODULE_react__, __WEBPACK_EXTERNAL_MODULE_react_dom_server__, __WEBPACK_EXTERNAL_MODULE_react_helmet__) {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -146,7 +146,7 @@ var plugins = [{
     "cache_busting_mode": "query",
     "crossOrigin": "anonymous",
     "include_favicon": true,
-    "cacheDigest": "f2f7ea55f465b098aedbf9535d9214ba"
+    "cacheDigest": "06677ecc8516a9820359da14a9f8e8d4"
   }
 }]; // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
@@ -54230,7 +54230,7 @@ module.exports = __webpack_require__.p + "static/bam-adcff3ac45be650476fe89a6a98
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/logo-f2f7ea55f465b098aedbf9535d9214ba.png";
+module.exports = __webpack_require__.p + "static/logo-06677ecc8516a9820359da14a9f8e8d4.png";
 
 /***/ }),
 
@@ -54257,9 +54257,9 @@ module.exports = __webpack_require__.p + "static/stratton-logo-64d5fc9f8f313e13a
 /***/ }),
 
 /***/ "@reach/router":
-/*!***********************************************************************************************************!*\
-  !*** external "C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\@reach\\router\\index.js" ***!
-  \***********************************************************************************************************/
+/*!**********************************************************************************************************!*\
+  !*** external "C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\@reach\\router\\index.js" ***!
+  \**********************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -54279,9 +54279,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_fs__;
 /***/ }),
 
 /***/ "lodash/concat":
-/*!****************************************************************************************************!*\
-  !*** external "C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\concat.js" ***!
-  \****************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** external "C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\concat.js" ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -54290,9 +54290,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_concat__;
 /***/ }),
 
 /***/ "lodash/flatten":
-/*!*****************************************************************************************************!*\
-  !*** external "C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\flatten.js" ***!
-  \*****************************************************************************************************/
+/*!****************************************************************************************************!*\
+  !*** external "C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\flatten.js" ***!
+  \****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -54301,9 +54301,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_flatten__;
 /***/ }),
 
 /***/ "lodash/get":
-/*!*************************************************************************************************!*\
-  !*** external "C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\get.js" ***!
-  \*************************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** external "C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\get.js" ***!
+  \************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -54312,9 +54312,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_get__;
 /***/ }),
 
 /***/ "lodash/isObject":
-/*!******************************************************************************************************!*\
-  !*** external "C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\isObject.js" ***!
-  \******************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** external "C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\isObject.js" ***!
+  \*****************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -54323,9 +54323,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_isObject__;
 /***/ }),
 
 /***/ "lodash/merge":
-/*!***************************************************************************************************!*\
-  !*** external "C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\merge.js" ***!
-  \***************************************************************************************************/
+/*!**************************************************************************************************!*\
+  !*** external "C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\merge.js" ***!
+  \**************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -54334,9 +54334,9 @@ module.exports = __WEBPACK_EXTERNAL_MODULE_lodash_merge__;
 /***/ }),
 
 /***/ "lodash/uniqBy":
-/*!****************************************************************************************************!*\
-  !*** external "C:\\Users\\Bruce\\Desktop\\Projects\\James Reule\\node_modules\\lodash\\uniqBy.js" ***!
-  \****************************************************************************************************/
+/*!***************************************************************************************************!*\
+  !*** external "C:\\Users\\Bruce\\Desktop\\Projects\\jamesreule\\node_modules\\lodash\\uniqBy.js" ***!
+  \***************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
