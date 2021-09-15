@@ -15,7 +15,7 @@ const IndexPage = (props) => (
     <Layout >
         <Helmet title='Home | James Reule '/>
         <Nav pathExt={props.path} />
-        <Banner /><br/><br/><br/><br/><br/><br/>
+        <Banner />
         <MidBook />
         <Author />
         
